@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rohanmourya671@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xDYz0dZeYLeCW54Vg_6y_yacS13qJVPs/view?usp=sharing](https://drive.google.com/file/d/1xDYz0dZeYLeCW54Vg_6y_yacS13qJVPs/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1xDYz0dZeYLeCW54Vg_6y_yacS13qJVPs](https://drive.google.com/uc?export=download&id=1xDYz0dZeYLeCW54Vg_6y_yacS13qJVPs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
