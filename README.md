@@ -5,7 +5,7 @@
 
 - 👯 I have collaborated in [Anitmoto - Clone](https://anitmoto-in.netlify.com)
 
-- 👨‍💻 All of my projects are available at [https://rohan-mourya-portfolio.netlify.com](https://rohan-mourya-portfolio.netlify.com)
+- 👨‍💻 All of my projects are available at [https://rohan209547mourya.github.io](https://rohan209547mourya.github.io)
 
 - 💬 Ask me about **Java, JavaScript, Data Structure and Algorithm,HTML, CSS**
 
