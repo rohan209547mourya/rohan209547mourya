@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, MySQL, AWS**
 
-- 👯 I have collaborated in [Anitmoto - Clone](https://anitmoto-in.netlify.com)
+- 👯 I have collaborated in ![Anitmoto - Clone](https://anitmoto-in.netlify.com)
 
 - 👨‍💻 All of my projects are available at [https://rohan209547mourya.github.io](https://rohan209547mourya.github.io)
 
