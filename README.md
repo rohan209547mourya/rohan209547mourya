@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Java, MySQL, AWS**
 
-- 👯 I have collaborated in ![Anitmoto - Clone](https://anitmoto-in.netlify.com)
+- 👯 I have collaborated in [Anitmoto - Clone](https://anitmoto-in.netlify.com)
 
-- 👨‍💻 All of my projects are available at [https://rohan209547mourya.github.io](https://rohan209547mourya.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rohan209547mourya.github.io)
 
 - 💬 Ask me about **Java, JavaScript, Data Structure and Algorithm,HTML, CSS**
 
 - 📫 How to reach me **rohanmourya671@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1xDYz0dZeYLeCW54Vg_6y_yacS13qJVPs](https://drive.google.com/uc?export=download&id=1xDYz0dZeYLeCW54Vg_6y_yacS13qJVPs)
+- 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=1xDYz0dZeYLeCW54Vg_6y_yacS13qJVPs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
