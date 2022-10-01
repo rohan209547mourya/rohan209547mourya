@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Mourya</h1>
 <h3 align="center">A curious Java Backend Developer. ready to work at an IT company to showcase my technical skills.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan209547mourya&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan Mourya" /> </p>
 
 - 🌱 I’m currently learning **Java, MySQL, AWS**
 
