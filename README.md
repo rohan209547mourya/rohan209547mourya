@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohan Mourya</h1>
 <h3 align="center">A curious Java Backend Developer. ready to work at an IT company to showcase my technical skills.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan209547mourya&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan Mourya" /> </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<p align="left" style="margin-top:50px;"> <img src="https://komarev.com/ghpvc/?username=rohan209547mourya&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan Mourya" /> </p>
+
+<img src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif" height="300px" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 - 🌱 I’m currently learning **Java, MySQL, AWS**
 
@@ -14,18 +19,50 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=1xDYz0dZeYLeCW54Vg_6y_yacS13qJVPs)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/connect-with-rohan-mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="connect-with-rohan-mourya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rohanmourya671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohanmourya671" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohan_1mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohan_1mo" height="30" width="40" /></a>
-</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan209547mourya&show_icons=true&locale=en&layout=compact" alt="rohan209547mourya" /></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img  src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan209547mourya&show_icons=true&locale=en" alt="rohan209547mourya" /></p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img align="center" style="background-color:black;" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan209547mourya&" alt="rohan209547mourya" /></p>
+## Social
+
+<a  href="https://www.linkedin.com/in/connect-with-rohan-mourya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+
+<a  href="https://leetcode.com/rohan_1mo/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+## Profile Statistics
+<img src="https://github-profile-trophy.vercel.app/?username=rohan209547mourya"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=rohan209547mourya&theme=minimal" style="margin-top:50px;"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohan209547mourya" style="margin-top:50px;"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="	https://github-readme-stats.vercel.app/api/top-langs/?username=rohan209547mourya" style="margin-top:50px;"/>
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan209547mourya" style="margin-top:50px;"/>
+
+
