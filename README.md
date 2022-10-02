@@ -42,7 +42,7 @@
 
 ## Social
 
-<a style="width:90%"; margin:auto; href="https://www.linkedin.com/in/connect-with-rohan-mourya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/connect-with-rohan-mourya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
 <a  href="https://leetcode.com/rohan_1mo/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
@@ -50,7 +50,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## Profile Statistics
-<img src="https://github-profile-trophy.vercel.app/?username=rohan209547mourya"/>
+<img style="width:90%"; margin:auto;" src="https://github-profile-trophy.vercel.app/?username=rohan209547mourya"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
