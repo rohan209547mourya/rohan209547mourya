@@ -57,14 +57,15 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=rohan209547mourya&theme=minimal" style="margin-top:50px;"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
+<div style="display:flex;  justify-content: space-around;">
 <img src="https://github-readme-stats.vercel.app/api?username=rohan209547mourya" style="margin-top:50px;"/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan209547mourya" style="margin-top:50px;"/>
-
-
+</div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+
+
 
 
 
