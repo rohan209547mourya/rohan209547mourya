@@ -50,7 +50,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## Profile Statistics
-<img style="width:90%"; margin:auto;" src="https://github-profile-trophy.vercel.app/?username=rohan209547mourya"/>
+<img style="width:90%; margin:auto;" src="https://github-profile-trophy.vercel.app/?username=rohan209547mourya"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
