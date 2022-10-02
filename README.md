@@ -64,7 +64,6 @@
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan209547mourya" style="margin-top:50px; />
 
 
 
