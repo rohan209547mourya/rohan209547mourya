@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,js,spring,css,html,maven,mysql,mongodb,hibernate,git,aws,github,idea,postgres,vscode)]
+[![My Skills] (https://skillicons.dev/icons?i=java,js,spring,css,html,maven,mysql,mongodb,hibernate,git,aws,github,idea,postgres,vscode)]
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
