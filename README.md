@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-- 🌱 I’m currently learning **Java, MySQL, AWS**
+- 🌱 I’m currently working with **Java, Spring boot, SQL, Docker, AWS**
 
 - 👯 I have collaborated in [Anitmoto - Clone](https://anitmoto-in.netlify.com)
 
