@@ -2,14 +2,14 @@
 <h3 align="center">A curious Java Backend Developer. ready to work at an IT company to showcase my technical skills.</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p align="left" style="margin-top:50px;"> <img src="https://komarev.com/ghpvc/?username=rohan209547mourya&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan Mourya" /> </p>
+<p align="left" style="margin-top:51px;"> <img src="https://komarev.com/ghpvc/?username=rohan209547mourya&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan Mourya" /> </p>
 
 
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://rohan209547mourya.github.io)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-- 🌱 I’m currently working with **Java, Spring boot, SQL, Docker, AWS**
+- 🌱 I’m currently working with **Java, Spring boot,ReactJS,NodeJS SQL, Docker, AWS**
 
 - 👯 I have collaborated in [Anitmoto - Clone](https://anitmoto-in.netlify.com)
 
