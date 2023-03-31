@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,spring,nodejs,docker,py,react,css,html,maven,mysql,mongodb,linux,md,hibernate,git,aws,github,idea,postgres,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,spring,nodejs,docker,py,react,css,html,maven,mysql,mongodb,linux,redux,md,hibernate,git,aws,github,idea,postgres,vscode)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
