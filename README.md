@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Mourya</h1>
-<h3 align="center">A curious Java Backend Developer. ready to work at an IT company to showcase my technical skills.</h3>
+<h3 align="center">A curious Full Stack Web Developer. ready to work at an IT company to showcase my technical skills.</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p align="left" style="margin-top:51px;"> <img src="https://komarev.com/ghpvc/?username=rohan209547mourya&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan Mourya" /> </p>
@@ -9,13 +9,13 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-- 🌱 I’m currently working with **Java, Spring boot,ReactJS,NodeJS SQL, Docker, AWS**
+- 🌱 I’m currently working with **ReactJS, NodeJS, Java, Spring boot,ReactJS,NodeJS SQL, Docker, AWS**
 
 - 👯 I have collaborated in [Anitmoto - Clone](https://anitmoto-in.netlify.com)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rohan209547mourya.github.io)
 
-- 💬 Ask me about **Java, JavaScript, Data Structure and Algorithm,HTML, CSS**
+- 💬 Ask me about **ReactJs, NodeJS, Java, JavaScript, Data Structure and Algorithm,HTML, CSS**
 
 - 📫 How to reach me **rohanmourya671@gmail.com**
 
